@@ -1,4 +1,4 @@
-# Namaste-React rocke
+# Food-Ordering App
 
 # Parcel
 
